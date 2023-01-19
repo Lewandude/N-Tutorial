@@ -1,0 +1,22 @@
+*{
+   background-color: aquamarine;
+   background-image: url();
+   font-weight: bold;
+}
+
+a i:hover{
+   color: green;
+}
+a i:visited{
+   color: green;
+}
+
+
+.all{
+   margin-top: 4%;
+   margin-left: 35%;
+   padding: 2%;
+   border: 2px solid black;
+   border-radius: 10px;
+   width: fit-content;
+}
